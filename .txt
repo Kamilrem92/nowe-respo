@@ -1,1 +1,2 @@
 zajecia nr 2
+new_featuer
